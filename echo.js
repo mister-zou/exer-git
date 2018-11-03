@@ -4,3 +4,11 @@ exer-echo
 exer-echo
 exer-echo
 abc
+checkout
+echo2
+1
+2
+1
+1
+112
+123
